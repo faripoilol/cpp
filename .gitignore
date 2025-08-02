@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+/simple/project_00/.vs/project_00/FileContentIndex/cb891b94-7b6d-4422-9c44-843ab5c58bca.vsidx
+/simple/project_00/.vs/project_00/v17/ipch/AutoPCH/601bd0f1bd1caafb/PROJECT_00.ipch
+/simple/project_00/.vs/project_00/v17/Browse.VC.db
+/simple/project_00/.vs/project_00/v17/Browse.VC.db-shm
+/simple/project_00/.vs/project_00/v17/Browse.VC.db-wal
+/simple/project_00/.vs/project_00/v17/Browse.VC.opendb
